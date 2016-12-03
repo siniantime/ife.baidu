@@ -1,0 +1,90 @@
+# ife.baidu
+百度前端学院练习
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>百度前端练习</title>
+</head>
+
+<body>
+	<h1>网站一级标题</h1>
+	<ul>
+		<li><a href="https://www.baidu.com/">导航链接一</a></li>
+		<li><a href="https://www.baidu.com/">导航链接二</a></li>
+	</ul>
+	<h2>文章一级标题</h2>
+	<h2>文章二级标题</h2>
+	<P>作者 &nbsp 时间</p>
+	<p>
+	万维网的核心语言、标准通用标记语言下的一个应用超文本标记语言（HTML）的第五次重大修改
+	（这是一项推荐标准、外语原文：W3C Recommendation、见本处参考资料原文内容：[1]  ）。
+2014年10月29日，万维网联盟宣布，经过接近8年的艰苦努力，该标准规范终于制定完成。
+	<a href="https://www.baidu.com/">这里有一个链接</a>
+	万维网的核心语言、标准通用标记语言下的一个应用超文本标记语言（HTML）的第五次重大修改
+	（这是一项推荐标准、外语原文：W3C Recommendation、见本处参考资料原文内容：[1]  ）。
+2014年10月29日，万维网联盟宣布，经过接近8年的艰苦努力，该标准规范终于制定完成。
+	</p>
+	<p><img src="beiying.jpg" alt="beiying"></p>
+	<h2>图片</h2>
+	<p>好看的图片</p>
+	<img src="beiying.jpg" alt="beiying">
+	<p>好看的图片</p>
+	<img src="beiying.jpg" alt="beiying">
+	<p>好看的图片</p>
+	<img src="beiying.jpg" alt="beiying">
+	<h1>最后一篇文章一级标题</h1>
+	<h2>最后一篇文章二级标题</h2>
+	<p>作者 &nbsp 时间</p>
+	<ol>
+		<li>排名1</li>
+		<li>排名2</li>
+	</ol>
+	<p>下面是一个表格</p>
+	<table border="1">
+		<tr>
+			<td>表头</td>
+			<td>表头</td>
+			<td>表头</td>
+		</tr>
+		<tr>
+			<td>数据</td>
+			<td>数据</td>
+			<td><a href="https://www.baidu.com/">链接</a></td>
+		</tr>
+		<tr>
+			<td>数据</td>
+			<td>数据</td>
+			<td><a href="https://www.baidu.com/">链接</a></td>
+		</tr>
+		<tr>
+			<th>总计</th>
+			<th colspan="2">1000</th>
+		</tr>
+	</table>
+	<h2>这是最后一栏，这是侧栏的标题</h2>
+	<h2>侧栏注册窗口标题</h2>
+	<form>
+		请提交邮箱地址：<input type="text" name="emai address">
+	</form>
+	<p>邮箱地址请按要求格式输入</p>
+	<form>
+		请输入密码：<input type="text" name="password1">请重复输入密码：<input type="text" name="password2">
+	</form>
+	<p>密码是6-16位英文数字</p>
+	<form>
+		性别：<input type="radio" name="sex" value="male">男<input type="radio" name="sex" value="female">女
+		城市：
+		<select name="city">
+			<option value="beijing">北京</option>
+			<option value="shanghai">上海</option>
+		</select>
+		爱好：
+		<input type="checkbox" name=“hobby” value="sprot">运动
+		<input type="checkbox" name="hobby" value="art">艺术
+		个人描述:
+		<input type="text" name=“introduce”>
+		<input type="submit" value="确认提交"
+	<form>
+	<p>版权所有 &copy</p>
+</body>
