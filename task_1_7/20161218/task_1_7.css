@@ -1,0 +1,105 @@
+/*-------------------------------------------通用样式*/
+body,div,ul,p,li,img,h1{margin:0;padding:0;}
+body{
+	padding:0px 45px;
+	width: 100%;
+	min-width: 1280px;
+	}
+.leftFloat,#nav p,#nav li,#content2 li{
+	float:left;
+	}
+.rightFloat,#nav ul{
+	float:right;
+	}
+/*--------------------------------------------导航样式*/
+#nav{
+	height:60px;
+	padding:10px 55px;
+	/*position:fixed;*/
+	top:0px;
+	}
+#nav p{
+	font-family:"SimHei";
+	font-size:20px;
+	margin:5px 10px;
+	}
+#nav li{
+	margin:8px 20px;
+	font-family:"SimHei";
+	font-size:18px;
+	list-style-type:none;
+	}
+.fontColorRed{
+	color:red;
+	}
+/*----------------------------------------------第一版*/
+#content1{
+	height:691px;
+	background-image:url('images/content1.jpg');
+	font-family:"Microsoft YaHei";
+	color:#FFF;
+	padding-left:115px;
+	}
+#content1 h1{
+	font-weight:normal;
+	font-size:60px;
+	padding-top:230px;
+	}
+#content1 p{
+	font-size:21px;
+	font-family:"SimHei";
+	line-height:35px;
+	}
+#content1 button{
+	width:330px;
+	height:65px;
+	font-size:20px;
+	color:#fff;
+	font-family:"Microsoft YaHei";
+	background:#E74F4D;
+	border-style:none;
+	}
+/*---------------------------------------------第二版*/
+#content2{
+	height:250px;
+	padding-top:45px;
+	background:#FFF;
+	font-family:"Microsoft YaHei";
+	font-size:16px;
+	color:#ababab;
+	}
+#content2 li{
+	list-style-type:none;
+	width:25%;
+	text-align:center;
+	}
+#content2 img{
+	margin-bottom:47px;
+	}
+.verticalLine{
+	border-right:2px solid #ababab;
+	}
+/*-------------------------------------------第三版*/
+#content3{
+	width:1280px;
+	height:360px;
+	background:#EDEDED;
+	text-align:center;
+	}
+#content3 img{
+	margin-top:90px;
+	}
+#content3 p{
+	font-family:"Microsoft YaHei";
+	font-size:40px;
+	color:#A1A1A1;
+	margin-top:50px;
+	}
+/*------------------------------------------第四版*/
+#content4{
+	height:340px;
+	background-image:url('images/4-0.jpg');
+	font-family:"Microsoft YaHei";
+	text-align:center;
+	}
+#content4 

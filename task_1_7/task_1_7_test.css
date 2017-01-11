@@ -1,0 +1,39 @@
+html,body,div,h1,ul,li,p,img{margin:0;padding:0;}
+html{
+	width: 100%;
+}
+body{
+	width: 100%;
+	min-width: 1280px;
+	font-family: "Microsoft YaHei";
+}
+header{
+	position: fixed;
+	width: 100%;
+	min-width: 1280px;
+	height: 60px;
+	background-color: #ccc;
+}
+header .wrapper{
+	position: relative;
+	display: table-cell;
+	top:0;
+	bottom:0;
+	left: 57px;
+	vertical-align: middle;
+	height: 60px;
+}
+header img,p{
+	display: inline-block;
+}
+header img{
+	vertical-align: middle;
+}
+header ul{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+}
+header li{
+	display: inline;
+}
