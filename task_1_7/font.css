@@ -1,0 +1,180 @@
+*{
+	font-family: 'Microsoft YaHei'
+}
+
+header p{
+	font-size: 21px;
+	color: #393a3a;
+}
+header a{
+	font-size: 14px;
+	color: #787b83;
+}
+
+#page1 .wrapper{
+	color: #FCFFFC;
+}
+#page1 .wrapper p:first-child{
+	font-size: 60px;
+	font-weight: normal;
+}
+#page1 p{
+	font-size: 21px;
+	line-height:37px;
+	color:  #FCFFFC;
+}
+#page1 a{
+	font-size: 30px;
+	letter-spacing: 3px;
+	text-decoration: none;
+	color: #FCFFFC;
+}
+
+#page2 li{
+	font-family: 'SimHei';
+	font-size: 14px;
+	color: #767777;
+}
+#page3 p{
+	font-size: 53px;
+	color: #323333;
+}
+
+#page4 p{
+	color: #FFF;
+}
+#page4 p:first-child{
+	font-size: 21px;
+}
+#page4 p:nth-child(3){
+	font-size: 12px;
+}
+#page4 select,button{
+	font-size: 12px;
+	color: #a8aaaa;
+}
+#page5 p{
+	font-size: 12px;
+	line-height:30px;
+	color: #a8aaaa;
+}
+#page5 span{
+	font-size: 15px;
+	color: #000;
+}
+#page5 strong{
+	font-size: 24px;
+	font-weight: normal;
+	letter-spacing: 40px;
+}
+#page6 .left{
+	color: #FFF;
+}
+#page6 .left h3{
+	font-size: 50px;
+	font-weight: normal;
+}
+#page6 .left h1{
+	font-size: 158px;
+}
+#page6 .left p{
+	font-style: 22px;
+	line-height: 43px;
+}
+#page6 .right h1{
+	font-size: 22px;
+	font-weight: normal;
+}
+#page6 .right h1 span{
+	color: #E74F4D;
+}
+#page6 .right p{
+	font-size: 12px;
+	line-height: 30px;
+	color:  #a8aaaa;
+}
+#page6 .right a{
+	font-size: 12px;
+	color: #e25c60;
+}
+#page7{
+	font-family: 'SimHei';
+	font-size: 21px;
+	line-height: 30px;
+}
+#page7 .left p{
+	color: #fff;
+}
+#page7 .left a{
+	color: #fff;
+}
+#page7 .center p{
+	color: #323333;
+}
+#page7 .center a{
+	color: #E84E4C;
+}
+#page8 .top h1{
+	font-family: 'SimHei';
+	font-size: 21px;
+	font-weight: normal;
+	color: #323333;
+}
+#page8 .top p{
+	font-size: 12px;
+	color: #aaa;
+}
+#page8 .left h1{
+	font-family: "SimHei";
+	font-size: 14px;
+	font-weight: normal;
+	color: #231815;
+}
+#page8 .left p,#page8 .left a{
+	font-family: 'SimSun';
+	font-size: 12px;
+	color: #231815;
+}
+#page8 .right p,#page8 .right span{
+	font-family: 'SimSun';
+	font-size: 12px;
+	color: #231815;
+}
+#page8 .right button{
+	font-family: 'SimHei';
+	font-size: 14px;
+	color: #323333;
+}
+
+footer p,footer h1{
+	color: #fff;
+}
+footer .jionus p{
+	font-family: "SimSun";
+	font-size: 12px;
+}
+footer .jionus h1{
+	font-family: "SimHei";
+	font-size: 21px;
+	font-weight: normal;
+}
+footer input[type=text]{
+	font-size: 12px;
+	color: #aaaaaa;
+}
+footer input[type=submit]{
+	font-size: 15px;
+	letter-spacing: 10px;
+	color: #fff;
+}
+footer .copyright p{
+	line-height: 56px;
+	font-family: 'SimSun';
+	font-size: 12px;
+}
+footer .copyright p:first-child{
+	float: left;
+}
+footer .copyright p:last-child{
+	float: right;
+}
