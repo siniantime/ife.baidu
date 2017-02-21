@@ -1,0 +1,35 @@
+html,body,div,h1,h3,ul,ol,li,p,img,hr,select,button,input{margin:0;padding:0;}
+html{
+	width: 100%;
+}
+body{
+	width: 100%;
+	min-width: 1280px;
+}
+.float-left{
+
+}
+.float-right{
+
+}
+.clear-float{
+	zoom: 1;
+}
+.clear-float :after{
+	display: block;
+	clear: both;
+	width: 0;
+	height: 0;
+	content: '';
+	visibility: hidden;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+input,textarea,button{
+	border: none;
+	outline: none;
+}
